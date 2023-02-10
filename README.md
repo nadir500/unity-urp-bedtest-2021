@@ -1,5 +1,5 @@
 # Unity 2021LTS BedTest: 
-This repo is built for making different prototypes and tests under Unity URP. 
+This repo is built for making different prototypes and tests under Unity URP, with appropriate naming convention. 
 
 # Flares for additional lights(renderer feature): 
 Using renderer feature with flare alpha image and fresnel effect. 
